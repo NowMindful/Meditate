@@ -22,8 +22,9 @@ A simple, elegant single-page web application that helps users track their medit
 ### Prerequisites
 - A modern web browser (e.g., Chrome, Firefox, Safari).
 
-### Installation
-
-1. **Clone the Repository**:
+### Use
+1. **Visit Site**:
    ```bash
-   git clone https://github.com/YourUsername/Meditation.git
+   meditate.nowmindful.co.uk
+
+
